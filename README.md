@@ -2,7 +2,7 @@
 
 Overview
 
-Access the zkemkeeper functions using pythonnet and winpy32
+Access the zkemkeeper functions using pythonnet and pywin32, Note: do not install pypein32
 
 ## Prerequisites
 
